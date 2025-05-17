@@ -1,0 +1,9 @@
+{
+    "servers": {
+        "mcp-server-python-example": {
+            "type": "stdio",
+            "command": "uv",
+            "args": []
+        }
+    }
+}

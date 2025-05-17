@@ -6,7 +6,7 @@
             "command": "uv",
             "args": [
                 "--directory",
-                "/home/wasabina67/dev/mcp-server-python-example",
+                "${workspaceFolder}",
                 "run",
                 "main.py"
             ]

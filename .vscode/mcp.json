@@ -1,9 +1,15 @@
 {
+    "inputs": [],
     "servers": {
         "mcp-server-python-example": {
             "type": "stdio",
             "command": "uv",
-            "args": []
+            "args": [
+                "--directory",
+                "/home/wasabina67/dev/mcp-server-python-example",
+                "run",
+                "main.py"
+            ]
         }
     }
 }
